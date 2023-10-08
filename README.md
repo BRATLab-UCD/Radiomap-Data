@@ -29,7 +29,7 @@ The frequency used for each antenna is [2625] MHz.
 1 sample is in the folder /fine-resolution.
 
 ## Acknowledgement
-Please acknowledge the following paper if the dataset is useful for your research
+Please acknowledge the following paper if the dataset is useful for your research.
 
 @article{zhang2023radiomap,<br/>
   title={Radiomap Inpainting for Restricted Areas based on Propagation Priority and Depth Map}, <br/>
