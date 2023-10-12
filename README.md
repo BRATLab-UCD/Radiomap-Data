@@ -3,7 +3,7 @@ The BRAT-Lab radiomap dataset is high-fidelity simulated dataset via Altair WinP
 
 The landscape map is accessible from OpenStreetMap: https://www.openstreetmap.org/
 
-The dataset is available via: [BRAT-Lab Dataset](https://www.dropbox.com/scl/fo/bfxkjk2vxtj3sou422zll/h?rlkey=1wahdlqi0kh1b21qdbtng4jf0&dl=0)
+The dataset is available via: [BRAT-Lab Dataset](https://www.dropbox.com/scl/fo/kua86qnk1aukt8i4f2rma/h?rlkey=j82kiq4dgaw3l0bzbeyfvv4oi&dl=0)
 
 The dataset consists of [x] coarse resolution radiomaps in [X] frequency bands, and [X] fine resolution radiomaps with size [x × Y].
 
