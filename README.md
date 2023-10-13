@@ -28,6 +28,9 @@ The frequency used for each antenna is [2625] MHz.
 
 1 sample is in the folder /fine-resolution.
 
+## Instruction of Generating your Radiomaps via Our Codes
+Put some information about how to customize our codes for radiomap generation, i.e., parameters of antennas.
+
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
 
