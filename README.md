@@ -14,12 +14,12 @@ Each transmitter contains three antennas (model 720842A2) with height as 35 mete
 5 frequency brands used for each antenna are 1750, 2750, 3750, 4750, 5750 MHz.
 
 <div>
-<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_urbanmap.png?raw=true" width="200" height="200" align="center">
-<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_radiomap.png?raw=true" width="300" height="200" align="center">
+<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_urbanmap.png?raw=true" width="400" height="300" align="center">
+<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_radiomap.png?raw=true" width="400" height="300" align="center">
 </div>
 <div>
-<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_urbanmap.png?raw=true" width="200" height="200" align="center">
-<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_radiomap.png?raw=true" width="300" height="200" align="center">
+<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_urbanmap.png?raw=true" width="400" height="300" align="center">
+<img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_radiomap.png?raw=true" width="400" height="300" align="center">
 </div>
 
 5 samples are in the folder /coarse-resolution. The code of radiomap generation is in /code.
