@@ -13,24 +13,29 @@ The whole region is conformed as a 300 × 300 regular grid. The height of each b
 Each transmitter contains three antennas (model 720842A2) with height as 35 meters and initial power as 46.00 dBm. 
 5 frequency brands used for each antenna are 1750, 2750, 3750, 4750, 5750 MHz.
 
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
     <img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_urbanmap.png?raw=true" width="400" height="300" />
-    <p>Urban Map</p>
+    <br>
+    <span>Urban Map1</span>
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1604_radiomap.png?raw=true" width="400" height="300" />
-    <p>Radiomap</p>
+    <br>
+    <span>Radiomap1</span>
   </div>
 </div>
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
     <img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_urbanmap.png?raw=true" width="400" height="300" />
-    <p>Urban Map</p>
+    <br>
+    <span>Urban Map2</span>
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/3750MHz_1700_radiomap.png?raw=true" width="400" height="300" />
-    <p>Radiomap</p>
+    <br>
+    <span>Radiomap2</span>
   </div>
 </div>
 
