@@ -45,7 +45,16 @@ The whole region is conformed as a 3000 × 5000 regular grid. The height of each
 Each transmitter contains three antennas (model 720842A2) with height as 35 meters and initial power as 46.00 dBm. 
 The frequency used for each antenna is 1750, 2750, 3750, 4750, 5750 MHz. 
 
-[Example图片 Environment Map] [Example图片 Radiomap]
+<table>
+<tr>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/5750MHz_2_urbanmap.png?raw=true" width="400" height="300" align="center"></td>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/5750MHz_2_radiomap.png?raw=true" width="500" height="400" align="center"></td>
+</tr>
+<tr>
+<td align="center">Urban Map</td>
+<td align="center">Radio Map</td>
+</tr>
+</table>
 
 1 sample is in the folder /fine-resolution.
 
