@@ -59,7 +59,7 @@ The frequency used for each antenna is 1750, 2750, 3750, 4750, 5750 MHz.
 1 sample is in the folder /fine-resolution.
 
 ## Instruction of Generating your Radiomaps via Our Codes
-The code for generating data is stored in "Simulation". It is written in C++, and you will need to use CMake to set up the tasks. This code operates by invoking the API provided by Altair Feko for simulation purposes. You can adjust the code's parameters to suit your requirements. For more detailed information, refer to the official user manual at: https://2022.help.altair.com/2022.1.1/winprop/html/topics/winprop/user_guide/appendix/api/api_general_winprop_c.htm.
+The code for generating data is stored in "Simulation". It is written in C++, and you will need to use CMake to set up the tasks. This code operates by invoking the API provided by Altair Feko for simulation purposes. To harness the full capabilities of the API used in the code, you will need to obtain a Winprop license through official channels. After that, You can adjust the code's parameters to suit your requirements. For more detailed information, refer to the official user manual at: https://2022.help.altair.com/2022.1.1/winprop/html/topics/winprop/user_guide/appendix/api/api_general_winprop_c.htm.
 
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
