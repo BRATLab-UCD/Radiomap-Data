@@ -35,7 +35,7 @@ Each transmitter contains three antennas (model 720842A2) with height as 30 mete
 </tr>
 </table>
 
-5 samples are in the folder /coarse-resolution. The code of radiomap generation is in /code.
+5 samples are in the folder /coarse-resolution. The code of radiomap generation is in /simulation.
 
 The contents in each folder can be described as follows:
 
