@@ -61,6 +61,17 @@ The frequency used for each antenna is 1750, 2750, 3750, 4750, 5750 MHz.
 ## Instruction of Generating your Radiomaps via Our Codes
 The code for generating data is stored in "Simulation". It is written in C++, and you will need to use CMake to set up the tasks. This code operates by invoking the API provided by Altair Feko for simulation purposes. To harness the full capabilities of the API used in the code, you will need to obtain a Winprop license through official channels. After that, You can adjust the code's parameters to suit your requirements. For more detailed information, refer to the official user manual at: https://2022.help.altair.com/2022.1.1/winprop/html/topics/winprop/user_guide/appendix/api/api_general_winprop_c.htm.
 
+## Folders in the Repository
+osm_data: This folder holds the information of 2000 sets of regions obtained from OpenStreetMap through the Overpass API.
+odb_data: Data transformed from OSM files into a format suitable for processing with FEKO Winprop software.
+coordinates: Latitude and longitude coordinates for the 2000 regions. For each line, data saved as (x1 y1 x2 y2 x3 y3).
+buildings_positions: The relative positions of buildings within each region.
+stations_positions: The relative positions of radar installations within each region.
+antenna_patterns: The information about the chosen antenna.
+airInterfaces: The parameters of 5G propagation model air interface.
+radiomap_txt: The received power for the whole network in text file. For each line, data saved as (x y power).
+radiomap_mat: The received power for the whole network in matrix, converted from 'radiomap_txt'.
+
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
 
