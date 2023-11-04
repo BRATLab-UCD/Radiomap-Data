@@ -63,13 +63,21 @@ The code for generating data is stored in "Simulation". It is written in C++, an
 
 ## Folders in the Repository
 osm_data: This folder holds the information of 2000 sets of regions obtained from OpenStreetMap through the Overpass API.
+
 odb_data: Data transformed from OSM files into a format suitable for processing with FEKO Winprop software.
+
 coordinates: Latitude and longitude coordinates for the 2000 regions. For each line, data saved as (x1 y1 x2 y2 x3 y3).
+
 buildings_positions: The relative positions of buildings within each region.
+
 stations_positions: The relative positions of radar installations within each region.
+
 antenna_patterns: The information about the chosen antenna.
+
 airInterfaces: The parameters of 5G propagation model air interface.
+
 radiomap_txt: The received power for the whole network in text file. For each line, data saved as (x y power).
+
 radiomap_mat: The received power for the whole network in matrix, converted from 'radiomap_txt'.
 
 ## Acknowledgement
