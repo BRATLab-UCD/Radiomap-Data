@@ -89,4 +89,4 @@ Please acknowledge the following paper if the dataset is useful for your researc
 ## Contact
 Please contact Tianhang Yu for more information regarding the BRAT-Lab Dataset if you have any questions.
 
-Email: thgyu@ucdavis.edu
+Email: thgyu@ucdavis.edu; boma@ucdavis.edu.
