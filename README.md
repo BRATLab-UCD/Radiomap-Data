@@ -45,12 +45,23 @@ The frequency used for each antenna is 1750, 2750, 3750, 4750, 5750 MHz.
 
 <table>
 <tr>
-<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/5750MHz_2_urbanmap.png?raw=true" width="400" height="300" align="center"></td>
-<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/5750MHz_2_radiomap.png?raw=true" width="500" height="300" align="center"></td>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/h5750_U24.png?raw=true" width="400" height="300" align="center"></td>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/h5750_R24.png?raw=true" width="500" height="300" align="center"></td>
 </tr>
 <tr>
-<td align="center">Urban Map</td>
-<td align="center">Radio Map</td>
+<td align="center">Urban Map1</td>
+<td align="center">Radio Map1</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/h5750_U26.png?raw=true" width="400" height="300" align="center"></td>
+<td><img src="https://github.com/BRATLab-UCD/Radiomap-Data/blob/main/examples/h5750_R26.png?raw=true" width="500" height="300" align="center"></td>
+</tr>
+<tr>
+<td align="center">Urban Map2</td>
+<td align="center">Radio Map2</td>
 </tr>
 </table>
 
