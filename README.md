@@ -90,19 +90,9 @@ radiomap_mat: The received power for the whole network in matrix, converted from
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
 
-@article{zhang2024radiomap,
+S. Zhang, T. Yu, B. Choi, F. Ouyang, and Z. Ding, “Radio Map Inpainting of Missing Regions using Propagation Priority and Depth Map”, in IEEE Transactions on Wireless Communications, 2024.
 
-  title={Radiomap Inpainting for Restricted Areas based on Propagation Priority and Depth Map},
-  
-  author={Zhang, Songyang and Yu, Tianhang and Choi, Brian and Ouyang, Feng and Ding, Zhi},
-  
-  journal={IEEE Transactions on Wireless Communications},
-  
-  year={2024},
-  
-  publisher={IEEE}
-  
-}
+S. Zhang, B. Choi, F. Ouyang and Z. Ding, "Physics-Inspired Machine Learning for Radiomap Reconstruction: Integration of Radio Propagation Models and Artificial Intelligence", in IEEE Communications Magazine, 2024.
 
 ## Contact
 Please contact Tianhang Yu for more information regarding the BRAT-Lab Dataset if you have any questions.
