@@ -90,11 +90,12 @@ radiomap_mat: The received power for the whole network in matrix, converted from
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
 
-@article{zhang2023radiomap,<br/>
-  title={Radiomap Inpainting for Restricted Areas based on Propagation Priority and Depth Map}, <br/>
-  author={Zhang, Songyang and Yu, Tianhang and Choi, Brian and Ouyang, Feng and Ding, Zhi},<br/>
-  journal={arXiv preprint arXiv:2305.15526}, <br/>
-  year={2023} <br/>
+@article{zhang2024radiomap,
+  title={Radiomap Inpainting for Restricted Areas based on Propagation Priority and Depth Map},
+  author={Zhang, Songyang and Yu, Tianhang and Choi, Brian and Ouyang, Feng and Ding, Zhi},
+  journal={IEEE Transactions on Wireless Communications},
+  year={2024},
+  publisher={IEEE}
 }
 
 ## Contact
