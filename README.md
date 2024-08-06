@@ -95,6 +95,6 @@ S. Zhang, T. Yu, B. Choi, F. Ouyang, and Z. Ding, “Radio Map Inpainting of Mis
 S. Zhang, B. Choi, F. Ouyang and Z. Ding, "Physics-Inspired Machine Learning for Radiomap Reconstruction: Integration of Radio Propagation Models and Artificial Intelligence", in IEEE Communications Magazine, 2024.
 
 ## Contact
-Please contact Tianhang Yu for more information regarding the BRAT-Lab Dataset if you have any questions.
+Please contact Yibo Ma and Tianhang Yu for more information regarding the BRAT-Lab Dataset if you have any questions.
 
-Email: thgyu@ucdavis.edu; boma@ucdavis.edu.
+Email: boma@ucdavis.edu; thgyu@ucdavis.edu.
