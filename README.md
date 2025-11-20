@@ -3,7 +3,7 @@ The BRAT-Lab radiomap dataset is high-fidelity simulated dataset via Altair WinP
 
 The landscape map is accessible from OpenStreetMap: https://www.openstreetmap.org/
 
-<b> The dataset is available via </b>: The dataset is currently under mainteince. Please contact via boma@ucdavis.edu for the access to the dataset.
+<b> The dataset is available via </b>: https://ucdavis.box.com/s/ny3rv1eyqsqqkhjbmvp727nd91i1ytrp
 
 The dataset consists of 2000 coarse resolution radiomaps in 5 frequency bands with size around 500 × 500, and 100 fine resolution radiomaps in 5 frequency bands with size around 3000 × 5000.
 
