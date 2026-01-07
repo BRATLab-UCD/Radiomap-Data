@@ -90,8 +90,6 @@ radiomap_mat: The received power for the whole network in matrix, converted from
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
 
-S. Zhang, T. Yu, B. Choi, F. Ouyang and Z. Ding, "Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map," in IEEE Transactions on Wireless Communications, vol. 23, no. 8, pp. 9330-9344, Aug. 2024.
-
 S. Zhang, B. Choi, F. Ouyang and Z. Ding, "Physics-Inspired Machine Learning for Radiomap Estimation: Integration of Radio Propagation Models and Artificial Intelligence," in IEEE Communications Magazine, vol. 62, no. 8, pp. 155-161, August 2024.
 
 ## Contact
